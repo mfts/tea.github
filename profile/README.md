@@ -2,7 +2,7 @@
 
 <h1 align="center"><strong>tea</strong></h1>
 <p align="center">
-  tea is a decentralized, unified package manager that puts the entire open source ecosystem at your fingertips – no matter which stack.
+  tea is a decentralized, unified package manager that puts the entire open source ecosystem at your fingertips.
 </p>
 
 <p align="center">
