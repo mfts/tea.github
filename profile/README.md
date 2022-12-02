@@ -1,5 +1,24 @@
 ![tea](https://tea.xyz/banner.png)
 
+<h1 align="center"><strong>tea</strong></h1>
+<p align="center">
+  tea is a decentralized, unified package manager that puts the entire open source ecosystem at your fingertips – no matter which stack.
+</p>
+
+<p align="center">
+  <a href="https://twitter.com/teaxyz">
+    <img src="https://img.shields.io/twitter/follow/teaxyz_?style=flat&label=%40teaxyz_&logo=twitter&color=0bf&logoColor=fff" alt="Twitter" />
+  </a>
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/discord/906608167901876256?label=discord" alt="Discord" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/github/v/release/teaxyz/cli?label=tea/cli" alt="Version" />
+  </a>
+</p>
+&nbsp;
+
+
 From the creator of [`brew`], tea is a standalone, binary download for all
 platforms that puts the entire open
 source ecosystem at your fingertips. Casually and effortlessly use the latest
