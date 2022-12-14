@@ -1,13 +1,8 @@
 ![tea](https://tea.xyz/banner.png)
 
-<h1 align="center"><strong>tea</strong></h1>
-<p align="center">
-  tea is a decentralized, unified package manager that puts the entire open source ecosystem at your fingertips.
-</p>
-
 <p align="center">
   <a href="https://twitter.com/teaxyz">
-    <img src="https://img.shields.io/twitter/follow/teaxyz_?style=flat&label=%40teaxyz_&logo=twitter&color=0bf&logoColor=fff" alt="Twitter" />
+    <img src="https://img.shields.io/twitter/follow/teaxyz?style=flat&label=%40teaxyz&logo=twitter&color=0bf&logoColor=fff" alt="Twitter" />
   </a>
   <a href="https://discord.gg/JKzuqrW9">
     <img src="https://img.shields.io/discord/906608167901876256?label=discord" alt="Discord" />
